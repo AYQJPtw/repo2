@@ -1,7 +1,0 @@
-# Hold this sign up in front of you when taking picutre for social media.
-
-{ "metadata":
-    [ "person":
-       { "smiling", "clean shave", "close up"
-    ]
-}
